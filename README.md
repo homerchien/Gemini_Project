@@ -50,7 +50,7 @@ gemini.suite('button', function(suite) {
 
 ## 3. Gemini 安装
 
-### 3.1 安装galenframework
+### 3.1 安装Gemini
 
 ```shell
 执行：
